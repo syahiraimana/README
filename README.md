@@ -4,7 +4,7 @@
 
  📖 Currently studying Bachelor of Computer Science <br>
     (Graphics and Multimedia Software) in UTM <br> <br>
-  💻 Currently learning C++
+  💻 Currently learning C++ <br>
   📫 Reach me out at nursyahiraimana@graduate.utm.my
 ---
   #### LANGUAGE AND TOOLS:
